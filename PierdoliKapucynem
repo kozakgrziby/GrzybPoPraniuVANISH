@@ -1,4 +1,4 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "TOPS";
+    Title = "T.O.P.S";
     Text = "TOPS is down for big update, check discord for futher information later.";
 })
